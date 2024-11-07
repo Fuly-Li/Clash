@@ -43,14 +43,14 @@ DOMAIN-SUFFIX,kuajing.uk
 DOMAIN-SUFFIX,metacubex.one
 
 #精准匹配
-DOMAIN,cdn.plyr.io,Proxy
-DOMAIN,thumbs2.imgbox.com,Proxy
+DOMAIN,cdn.plyr.io
+DOMAIN,thumbs2.imgbox.com
 DOMAIN,hanmanjd.org,Proxy
-DOMAIN,vdownload.hembed.com,Proxy
-DOMAIN,c.fantia.jp,Proxy
+DOMAIN,vdownload.hembed.com
+DOMAIN,c.fantia.jp
 
 #模糊匹配
-DOMAIN-SUFFIX,happymh,Proxy
+DOMAIN-SUFFIX,happymh
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve

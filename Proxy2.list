@@ -42,11 +42,15 @@ DOMAIN-SUFFIX,muniucloud.pro
 DOMAIN-SUFFIX,kuajing.uk
 DOMAIN-SUFFIX,metacubex.one
 
+#精准匹配
 DOMAIN,cdn.plyr.io,Proxy
 DOMAIN,thumbs2.imgbox.com,Proxy
 DOMAIN,hanmanjd.org,Proxy
 DOMAIN,vdownload.hembed.com,Proxy
 DOMAIN,c.fantia.jp,Proxy
+
+#模糊匹配
+DOMAIN-SUFFIX,happymh,Proxy
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
